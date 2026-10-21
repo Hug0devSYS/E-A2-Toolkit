@@ -1,0 +1,4 @@
+E-A2 Net|E-A2 Net.exe|25
+E-A2 Install|E-A2 Install.exe|90
+E-A2 Migration|E-A2 Migration.exe|60
+E-A2 Scan|E-A2 Scan.exe|180
